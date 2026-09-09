@@ -1,4 +1,5 @@
 #include "isEven.h"
+#include "isOdd.h"
 
 #include <stdio.h>
 
